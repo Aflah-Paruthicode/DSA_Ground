@@ -37,5 +37,6 @@ i started with the basics and have been moving into more complex logic,
 - [ ] implement all major data structures from scratch.
 
 ---
-> first, solve the problem. then, write the code, 
-> — **Muhammed Aflah TK**
+> first, solve the problem. then, write the code,  <br />
+> —  Aflah 🫰
+
