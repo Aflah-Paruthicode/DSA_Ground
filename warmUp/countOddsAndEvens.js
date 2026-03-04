@@ -10,6 +10,6 @@ function CountOddsAndEvens (num) {
     return [odds,evens]
 };
 
-let number = 24561;
+let number = 24561; 
 
 console.log(CountOddsAndEvens(number));
